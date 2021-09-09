@@ -1,5 +1,5 @@
 # belong.py
-inside gdb (or .gdbinit):
+inside gdb (or .gdbinit):  
 `source belong.py`
 
 ## commands
